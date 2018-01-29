@@ -1,0 +1,14 @@
+[
+    "欢迎来到222服",
+    "222服每2周更新1次，投稿规则详见群公告。",
+    "222服的DIY卡均由玩家制作，欢迎大家来游玩或者投稿自己的卡片。",
+    "222服每2周举办一次周赛，奖励丰厚，欢迎大家来参加。",
+    "222服的投稿支持投稿自己的卡片BGM，可以在自己的卡片的特定时点触发。欢迎大家体验！",
+    "222服有自动更新功能。自动更新的时候打开update文件夹的update.exe即可。若不需要音效文件可以点击update-without-sound.bat来忽略音效更新。",
+    "222服的默认音效部分由THC提供。",
+    "写卡碰到问题？有卡不会写？去https://github.com/Fluorohydride/ygopro-scripts查看OCG卡的脚本，有助于对YGOPro脚本的理解。",
+    "222服采用KoishiPro作为客户端。支持召唤BGM，允许作者对YGOPro客户端做出合理的修改来支持自己的DIY卡，同时Lua内核更换为Lua 5.3.4，支持& | << >>等位运算。",
+    "222服的周赛冠军可以获得为期2周的进场台词，欢迎大家积极参与周赛！",
+    "222服的内容均为开源，详情可以在https://github.com/purerosefallen/ygopro-222DIY-data查看。提交bug修复也可以提交在这里。",
+    "222服支持作者对222服的端做出改动，需要进行改动的作者请联系恋恋，或者在https://github.com/purerosefallen/ygopro-222DIY发pull request。"
+]
